@@ -8,6 +8,12 @@
 - 💡 **Enthusiastic about:** problem-solving, system architecture, and clean code
 - 🚴‍♂️ **Hobbies:** Board games, bouldering, visual development
 
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdrianBcode&show_icons=true&title_color=3c8e7e&text_color=7cd1b8&locale=en&layout=compact" alt="AdrianBcode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdrianBcode&show_icons=true&title_color=3c8e7e&text_color=7cd1b8&locale=en" alt="AdrianBcode" width="400" />
+</div>
+
 ### Get in touch:
 - 📄 **LinkedIn:** [Adrian's LinkedIn](https://www.linkedin.com/in/adrianburac)
 - 🏋 **Codewars:** [Adrian's Codewars](https://www.codewars.com/users/GhostCoder9)
