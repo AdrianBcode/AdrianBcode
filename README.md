@@ -3,7 +3,7 @@
 ### About me:
 
 - 👨‍💻 **Coding Bootcamp Fundamentals:** Sep '23 cohort [Makers Academy](https://makers.tech/)
-- 📘 **Lifelong learner & self-motivated coder:** [Codecademy](https://www.codecademy.com/profiles/YourProfileName)
+- 📘 **Lifelong learner & self-motivated coder:** [Codecademy](https://www.codecademy.com/profiles/ADR-01)
 - 🌱 **Currently exploring:** AWS
 - 💡 **Enthusiastic about:** problem-solving, system architecture, and clean code
 - 🚴‍♂️ **Hobbies:** Board games, bouldering, visual development
