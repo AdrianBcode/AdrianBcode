@@ -1,4 +1,5 @@
 👋 Hi, I’m Adrian
+[![Codewars](https://www.codewars.com/users/GhostCoder9/badges/small)](https://www.codewars.com/users/GhostCoder9)
 
 ### About me:
 
